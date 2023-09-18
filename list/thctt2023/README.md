@@ -25,7 +25,7 @@
   - enc_dir
 - Network Security
   - [The puzzle](./Network%20Security/The%20puzzle)
-  - Secret Message
+  - [Secret Message](./Network%20Security/Secret%20Message)
   - MitM
   - [xfil](./Network%20Security/xfil)
   - [SOMEWHERE](./Network%20Security/SOMEWHERE)
