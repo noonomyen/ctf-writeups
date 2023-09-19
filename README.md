@@ -1,4 +1,4 @@
-# Write up CFT
+# CTF Write up
 
 ## List
 
