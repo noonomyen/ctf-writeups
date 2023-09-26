@@ -7,6 +7,8 @@
 
 ---
 
+**Flag found by: [@c0ffeeOverdose](https://github.com/c0ffeeOverdose)**
+
 ไฟล์ที่เราได้มาคือไฟล์ pcapng เป็นไฟล์ packet capture สามารถเปิดได้โดยใช้ [Wireshark](https://www.wireshark.org)
 
 ![1.png](./images/1.png)
@@ -23,9 +25,11 @@
 
 ![3.png](./images/3.png)
 
-และเราก็ได้ทำการ scan ดูแล้วพบว่าไม่สามารถสแกนได้ ด้วยสาเหตุง่ายๆคือ QR Code มีรูปแบบไม่ถูกต้อง ในที่นี้คือขาด Position ไป 2 ที่
+เราก็ได้ทำการ scan ดูแล้วพบว่าไม่สามารถสแกนได้ ด้วยสาเหตุง่ายๆคือ QR Code มีรูปแบบไม่ถูกต้อง ในที่นี้คือขาด Position ไป 2 ที่
 
-เราจึงจะทำการแก้ไขภาพโดยการตัดต่อภาพ เราจะใช้โปรแกรมอะไรก็ได้ ในที่นี้เราจะใช้ [GIMP](https://www.gimp.org)
+เราจึงจะทำการแก้ไขภาพโดยการตัดต่อภาพ เราจะใช้โปรแกรมอะไรก็ได้ (แต่ตอนแข่ง [@c0ffeeOverdose](https://github.com/c0ffeeOverdose) เขาใช้ [Paint](https://en.wikipedia.org/wiki/Microsoft_Paint) กับรูปตัดแปะง่ายๆ ไม่ปรับสี)
+
+ในที่นี้เราจะยกตัวอย่างโดยใช้ [GIMP](https://www.gimp.org)
 
 - Colors > Saturation = 0
 - Colors > Threshold = Auto (160, 255)
