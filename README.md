@@ -1,4 +1,4 @@
-# CTF Write up
+# ctf writeups
 
 ## List
 

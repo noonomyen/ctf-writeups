@@ -1,6 +1,11 @@
-# Thailand Cyber Top Talent 2023
+# Thailand Cyber Top Talent 2023 (Senior)
 
-แข่งในระดับ Senior, ไฟล์ที่มีใน repo นี้มีไม่ครบทุกข้อ
+รอบคัดเลือก ระดับ Senior, ใน repo นี้เป็นโจทย์ที่ทีมเราหา flag ได้ภายในเวลาแข่งขัน
+
+## Team
+
+- [@noonomyen](https://github.com/noonomyen)
+- [@c0ffeeOverdose](https://github.com/c0ffeeOverdose)
 
 ## List
 
