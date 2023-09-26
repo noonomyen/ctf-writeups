@@ -2,4 +2,4 @@
 
 ## List
 
-- [THCTT2023-Senior (2023/09/16)](./list/thctt2023)
+- [THCTT23-Senior (2023/09/16)](./list/thctt23)
