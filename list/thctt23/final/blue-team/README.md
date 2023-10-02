@@ -1,3 +1,5 @@
+# Blue Team
+
 ```
 .
 └── Blue Team 1
@@ -24,6 +26,32 @@
         └── TELECOM-05.pcapng
 ```
 
+```
+.
+└── Blue Team 2
+    ├── asset inventory.txt
+    ├── eventlog
+    │   └── C4ISR
+    │       ├── C4ISR-Application.evtx
+    │       ├── C4ISR-Security.evtx
+    │       ├── C4ISR-Sysmon.evtx
+    │       └── C4ISR-System.evtx
+    └── pcap
+        ├── C4ISR-01.pcap
+        ├── C4ISR-02.pcap
+        ├── C4ISR-03.pcap
+        └── C4ISR-04.pcap
+```
+
+```
+unknown ในที่นี้คือ จำไม่ได้ว่าข้อที่เท่าไหร่
+```
+
 - [1-01](./1/1/)
 - [1-02](./1/2/)
 - [1-03](./1/3/)
+- [1-unknown-1](./1/unknown-1/)
+- [1-unknown-2](./1/unknown-2/)
+- [1-unknown-3](./1/unknown-3/)
+
+- [2-unknown-1](./2/unknown-1/)

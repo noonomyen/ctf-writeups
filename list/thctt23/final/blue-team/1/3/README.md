@@ -8,4 +8,4 @@
 
 เราก็เจอ username และ password ตอน login แล้วเราก็เขียนในรูป `username:password`
 
-ตอบ `admin@P@ssw0rd`
+ตอบ `admin:@P@ssw0rd`
