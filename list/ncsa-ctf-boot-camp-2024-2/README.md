@@ -7,16 +7,17 @@
   - [ASCII CAPTCHA](./ascii-captcha.md) (SM)
 - Web application
   - Decoding the Storm (S)
-  - Partial Flag Check Service
+  - [Partial Flag Check Service](./partial-flag-check-service.md)
 - Digital Forensics
-  - Flood Alert (S)
-  - Sound of Doc (S)
+  - [Flood Alert](./flood-alert.md) (S)
+  - [Sound of Doc](./sound-of-doc.md) (S)
 - Pwnable & Reverse Engineering
   - [Reverse w/ Code](./reverse-w-code.md) (SM)
   - Reverse w/o Code
 - Network Security
-  - Chat Message
+  - [Chat Message](./chat-message.md)
   - Encrypted File (S)
 
 > `S` คือสามารถแก้ได้ในเวลาการแข่งขัน
+
 > `M` Solve โดยฉัน ถ้าไม่มีคือ Solve โดยคนในทีม

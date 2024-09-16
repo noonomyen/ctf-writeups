@@ -1,6 +1,6 @@
 # Reverse w/ Code
 
-Tag: `reverse`
+Tag: `programming`
 
 ในโจทย์ข้อนี้เราได้ไฟล์มาสองไฟล์คือ ELF ไฟล์และ source code โดยเราต้องทำการใส่ flag เข้าไปแล้วโปรแกรมจะตอบกลับมาว่า flag นั้นถูกต้องไหม
 
