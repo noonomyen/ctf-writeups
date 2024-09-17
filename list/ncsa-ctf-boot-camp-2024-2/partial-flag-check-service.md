@@ -25,7 +25,7 @@ Tag: `web`
 ```py
 import requests
 
-URL = "https://websec.ctf.p7z.pw"
+URL = "https://localhost"
 
 headers = {"Content-Type": "application/x-www-form-urlencoded"}
 count = 0
