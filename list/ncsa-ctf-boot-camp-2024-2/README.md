@@ -6,7 +6,7 @@
   - [Half Search Game](./half-search-game.md) (SM)
   - [ASCII CAPTCHA](./ascii-captcha.md) (SM)
 - Web application
-  - Decoding the Storm (S)
+  - [Decoding the Storm](./decoding-the-storm.md) (S)
   - [Partial Flag Check Service](./partial-flag-check-service.md)
 - Digital Forensics
   - [Flood Alert](./flood-alert.md) (S)
