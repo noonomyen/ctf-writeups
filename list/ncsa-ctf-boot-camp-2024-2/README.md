@@ -16,7 +16,7 @@
   - [Reverse w/o Code](./reverse-wo-code.md)
 - Network Security
   - [Chat Message](./chat-message.md)
-  - Encrypted File (S)
+  - [Encrypted File](./encrypted-file.md) (S)
 
 > `S` คือสามารถแก้ได้ในเวลาการแข่งขัน
 
