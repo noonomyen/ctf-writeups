@@ -13,7 +13,7 @@
   - [Sound of Doc](./sound-of-doc.md) (S)
 - Pwnable & Reverse Engineering
   - [Reverse w/ Code](./reverse-w-code.md) (SM)
-  - Reverse w/o Code
+  - [Reverse w/o Code](./reverse-wo-code.md)
 - Network Security
   - [Chat Message](./chat-message.md)
   - Encrypted File (S)
