@@ -4,8 +4,8 @@
 
 ## List
 
-- [THCTT23-Senior](./list/thctt23/)
-  - [Qualifying round (2023/09/16)](./list/thctt23/qualifying-round/)
-  - [Final (2023/09/30)](./list/thctt23/final/)
-- [NCSA CTF Boot Camp 2024 - 2](./list/ncsa-ctf-boot-camp-2024-2/)
-- [STDiO CTF 2024](./list/stdio-ctf-2024/)
+- Thailand Cyber Top Talent 2023 - Senior
+  - [Qualifier (2023/09/16)](./list/thailand-cyber-top-talent-2023-senior-qualifier/README.md)
+  - [Final (2023/09/30)](./list/thailand-cyber-top-talent-2023-senior-final/README.md)
+- [NCSA CTF Boot Camp 2024 #2 (2024-09-15)](./list/ncsa-ctf-boot-camp-2024-2/README.md)
+- [STDiO CTF 2024 - Qualifier (2024-09-21)](./list/stdio-ctf-2024/README.md)
