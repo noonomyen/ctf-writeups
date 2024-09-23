@@ -2,7 +2,7 @@
 
 ได้ไฟล์สำหรับ reverse มา เป็น ELF
 
-[ch12_real_or_fake_2.zip](./files/ch12_real_or_fake_2.zip)
+[ch04_real_or_fake.zip](./files/ch04_real_or_fake.zip)
 
 ## Screen
 
