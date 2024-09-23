@@ -6,6 +6,8 @@
 
 ครับ...
 
+[ch04_real_or_fake.zip](./files/ch04_real_or_fake.zip)
+
 ## Solving
 
 หลังจาก reverse แล้วเราจะเจอทันทีว่า มันไม่มี printf ตรง loop ที่ใช้ output

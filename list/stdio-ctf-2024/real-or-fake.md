@@ -2,6 +2,8 @@
 
 ได้ไฟล์สำหรับ reverse มา เป็น ELF
 
+[ch12_real_or_fake_2.zip](./files/ch12_real_or_fake_2.zip)
+
 ## Screen
 
 ![2-1-1.png](./images/2-1-1.png)
@@ -48,7 +50,7 @@ undefined8 main(void)
   int local_24;
   int local_20;
   uint local_1c;
-  
+
   local_28 = 1;
   local_c8 = 0x3831623563663536;
   local_c0 = 0x6136326162643834;

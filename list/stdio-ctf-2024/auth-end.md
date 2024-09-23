@@ -2,6 +2,8 @@
 
 เราได้ไฟล์ ELF มาเพื่อหาวิธีเจาะช่องโหว่
 
+[ch07_auth_end.zip](./files/ch07_auth_end.zip)
+
 ## Screen
 
 ![4-1-1.png](./images/4-1-1.png)

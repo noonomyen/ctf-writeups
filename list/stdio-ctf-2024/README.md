@@ -21,3 +21,5 @@
   - [Modern password](./modern-password.md) (S)
 
 > `S` = sovle ได้ขนะแข่ง
+
+[Challenge files](./files/README.md)
