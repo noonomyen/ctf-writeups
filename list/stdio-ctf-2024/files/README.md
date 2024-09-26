@@ -11,5 +11,5 @@
 | [ch07_auth_end.zip](./ch07_auth_end.zip) | 3.4K | c607ae043613f2e4285a390096717aa035ff0eeeacb4ed6d783a816f004b446d |
 | [ch08_tech_bubble_sort.zip](./ch08_tech_bubble_sort.zip) | 356K | f1b3513ef1e544aff14afd7e5a69d5206f46ac2643f86d980b6fdf33f8141690 |
 | [ch09_BananaNetwork.zip](./ch09_BananaNetwork.zip) | 5.3M | ae7d8a1231dccef39e47daede060a24d9a02952671b450461a74286152350b6e |
-| [ch10_AD_Dump.zip](./ch10_AD_Dump.zip) | 1.8G | 72e4b16c27758d744ab4776f79973c9ee48ef4a0bc0a8e38d29945bc7487f850 |
+| ch10_AD_Dump.zip | 1.8G | 72e4b16c27758d744ab4776f79973c9ee48ef4a0bc0a8e38d29945bc7487f850 |
 | [ch12_real_or_fake_2.zip](./ch12_real_or_fake_2.zip) | 3.3K | f4e5ee4c21bbaefb0941896d395183e95d84c99c286d26a8c04516ed5850f33e |
