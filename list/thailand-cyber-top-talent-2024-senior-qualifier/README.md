@@ -1,0 +1,35 @@
+# Thailand Cyber Top Talent 2024 Senior - Qualifier
+
+- Cryptography
+  - [Easy 1](./challenges/cryptography/easy-1.md) `S`
+  - [Easy 2](./challenges/cryptography/easy-2.md) `S`
+  - [Medium](./challenges/cryptography/medium.md)
+  - [Hard](./challenges/cryptography/hard.md) `S`
+- Programming
+  - [Easy 1](./challenges/programming/easy-1.md) `S`
+  - [Easy 2](./challenges/programming/easy-2.md) `S`
+  - [Medium](./challenges/programming/medium.md) `S`
+  - type_the_word
+- Web Application
+  - [Not So Secret](./challenges/web-application/not-so-secret.md) `S`
+  - [Exclude Me Not](./challenges/web-application/exclude-me-not.md)
+  - Waiting List
+  - Sth Sticker Shop (SSS) `Removed during the match`
+- Digital Forensic
+  - [Easy 1](./challenges/digital-forensic/easy-1.md) `S`
+  - [Easy 2](./challenges/digital-forensic/easy-2.md) `S`
+  - Bad Company
+  - Cloudo
+- Reverse Engineering & Pwnable
+  - [Running Number](./challenges/reverse-engineering-and-pwnable/running-number.md) `S`
+  - [Embedded Malware](./challenges/reverse-engineering-and-pwnable/embedded-malware.md) `S`
+- Network Security
+  - [HTTP Mayhem](./challenges/network-security/http-mayhem.md) `S`
+  - [Silent Whisper](./challenges/network-security/slient-whisper.md) `S`
+  - [Encrypted C2 v2](./challenges/network-security/encrypted-c2-v2.md) `S`
+  - Ultimate C2 v2
+- Mobile Security
+  - [Easy](./challenges/mobile-security/easy.md) `S`
+  - [Medium](./challenges/mobile-security/medium.md)
+  - [The Face THCTT24](./challenges/mobile-security/the-face-thctt24.md)
+  - [Click Click](./challenges/mobile-security/click-click.md)

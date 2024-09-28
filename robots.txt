@@ -4,6 +4,8 @@ Disallow: /list/thailand-cyber-top-talent-2023-senior-qualifier/files/
 Disallow: /list/thailand-cyber-top-talent-2023-senior-qualifier/images/
 Disallow: /list/thailand-cyber-top-talent-2023-senior-final/files/
 Disallow: /list/thailand-cyber-top-talent-2023-senior-final/images/
+Disallow: /list/thailand-cyber-top-talent-2024-senior-qualifier/files/
+Disallow: /list/thailand-cyber-top-talent-2024-senior-qualifier/images/
 Disallow: /list/ncsa-ctf-boot-camp-2024-2/files/
 Disallow: /list/ncsa-ctf-boot-camp-2024-2/images/
 Disallow: /list/stdio-ctf-2024/files/
@@ -13,6 +15,8 @@ Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2023-senior-qualifier/fil
 Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2023-senior-qualifier/images/
 Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2023-senior-final/files/
 Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2023-senior-final/images/
+Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2024-senior-qualifier/files/
+Disallow: /ctf-writeups/list/thailand-cyber-top-talent-2024-senior-qualifier/images/
 Disallow: /ctf-writeups/list/ncsa-ctf-boot-camp-2024-2/files/
 Disallow: /ctf-writeups/list/ncsa-ctf-boot-camp-2024-2/images/
 Disallow: /ctf-writeups/list/stdio-ctf-2024/files/
