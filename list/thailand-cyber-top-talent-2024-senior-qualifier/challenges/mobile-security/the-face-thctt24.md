@@ -14,7 +14,7 @@
 
 แล้วรูปที่ 32 อยู่ที่ไหน ?
 
-เพื่อความมักงายเราจะใช้ binwalk แล้ว search ชื่อไฟล์
+เพื่อความมักง่ายเราจะใช้ binwalk แล้ว search ชื่อไฟล์
 
 ```sh
 binwalk -e TheFaceTHCTT24.apk
