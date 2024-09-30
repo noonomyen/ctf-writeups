@@ -12,7 +12,7 @@
   - type_the_word
 - Web Application
   - [Not So Secret](./challenges/web-application/not-so-secret.md) `S`
-  - [Exclude Me Not](./challenges/web-application/exclude-me-not.md)
+  - Exclude Me Not
   - Waiting List
   - Sth Sticker Shop (SSS) `Removed during the match`
 - Digital Forensic
